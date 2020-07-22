@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_base">28sp</dimen>
+    <dimen name="padding_base">10dp</dimen>
+    <dimen name="margin_base">25dp</dimen>
+</resources>
